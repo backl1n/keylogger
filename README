@@ -1,0 +1,19 @@
+nessesite  la librairie python suivante
+-*pynput 
+- logging
+- os
+
+
+installation avec pip
+pip install librairie
+
+description
+
+enregistre tous les saisies clavier et ecris dans un fichier 
+date + heure + touche saisie
+
+
+
+le code en commentaire permet de arreter le programme en tappant la touche end de votre clavier
+si le code est en commentaire
+arreter le processus python pour stopper le programme
